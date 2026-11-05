@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated reports
+sales_report.csv
+product_report.csv
+customer_report.csv
+monthly_report.csv
+
+# Generated charts
+monthly_revenue.png
